@@ -1,9 +1,7 @@
 import { Button, TextField } from "@mui/material";
-import React, {  } from "react";
+import React from "react";
 
-const Date = ({fromDate, toDate}) => {
- 
- 
+const Date = ({ fromDate, toDate }) => {
   return (
     <div className="datepage">
       <span className="datetag">From </span>
@@ -29,4 +27,4 @@ const Date = ({fromDate, toDate}) => {
   );
 };
 
-export default Date;
+export default Dateeeee;
